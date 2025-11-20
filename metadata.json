@@ -1,0 +1,7 @@
+{
+  "name": "Lumina - AI Interior Consultant",
+  "description": "Interactive room makeover app with AI-powered restyling, editing, and context-aware shopping advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
